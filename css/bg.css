@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../https://www.teahub.io/photos/full/297-2972152_gaming-background-hd.jpg);
+    background-color: #02041e;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}

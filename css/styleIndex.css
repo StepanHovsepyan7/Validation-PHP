@@ -1,0 +1,11 @@
+.parent{
+    background-color: rgba(0, 0, 63, 0.5);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 150px;
+    height: 500px;
+    width: 30%;
+    font-family: 'Roboto', sans-serif;
+    animation: myani 2s;
+}

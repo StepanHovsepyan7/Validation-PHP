@@ -1,0 +1,197 @@
+@media only screen and (max-width: 1300px) {
+    .parent{
+        width: 40%;    
+    }
+    .game1 img{
+        width: 28%;
+    }
+    .classGameParent img{
+        width: 28%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .parent{
+        width: 50%;    
+    }
+    .game1 img {
+        width: 35%;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    .classGameParent img{
+        width: 35%;
+    }
+}
+@media only screen and (max-width:990px){
+    .demo-area {
+        margin-left: 45px;
+        margin-right: 45px;
+    }
+    .content h1 {
+        font-size: 50px;
+    }
+} 
+@media only screen and (max-width: 800px) {
+    .parent{
+        width: 60%;    
+    }
+    .game1 img {
+        width: 40%;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    .classGameParent img{
+        width: 40%;
+    }
+}
+@media only screen and (max-width: 750px) {
+    .headerContent h1{
+        font-size: 40px !important;
+    }
+    .headerContent p{
+        font-size: 18px !important;
+    }
+    .demo-area {
+        margin-left: 13px;
+        margin-right: 13px;
+    }
+    .content h1 {
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 650px) {
+    .parent{
+        width: 70%;    
+        border: none;
+    }
+    .buynow{
+        padding: 23px 21px;
+        height: 56px;
+    }
+    .gamesParent{
+        display: block;
+    }
+    .gamesParent2{
+       padding-left: 0 !important;
+    }
+    .gamesParent{
+        padding-left: 0 ;
+    }
+    .game1 img {
+        width: 80% !important;
+        padding-top: 28px;
+        padding-left:0px;
+    }
+    .demo-area {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .classGameParent img{
+        width: 80%;
+    }
+}
+@media only screen and (max-width:600px){
+    .content h1 {
+        font-size: 30px;
+    }
+    .content p {
+        font-size: 14px;
+    }
+    .content button {
+        width: 138px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .parent{
+        width: 80%;    
+    }
+    .headerContent p {
+        font-size: 15px !important;
+    }
+    .bigheader2 h1 {
+        font-size: 40px;
+    }
+    .bluedivFlex h1 {
+        font-size: 40px;
+    }
+    .inputs{
+        font-size: 20px !important;
+    }
+}
+@media only screen and (max-width: 450px) {
+    .parent{
+        width: 85%;    
+    }
+    .inp1{
+        width: 60%;
+        font-size: 20px;
+    }
+    form h1 {
+        padding-bottom: 10px;
+        font-size: 35px;
+        animation: myani2 3s;
+    }
+    .sub{
+        font-size: 20px;
+    }
+    .headerContent h1 {
+        font-size: 30px !important;
+    }
+    .bigheader2 h1 {
+        font-size: 30px;
+    }
+    .buynow {
+        padding: 15px 16px;
+        height: 49px;
+    }
+    .buynow2 {
+        padding: 15px 16px;
+        height: 49px;
+    }
+    .logo{
+        height: 40px;
+    }
+    .game1 img {
+        width: 95%;
+    }
+    .game1 img:hover{
+        transform: none;
+    }
+    .content h1 {
+        font-size: 25px;
+    }
+    .classGameParent img{
+        width: 95%;
+        padding-left: 0px;
+    }
+    .classGameParent img:hover{
+        transform: scale(1.0);
+
+    }
+    .divnoc{
+        width: 30px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .parent {
+        width: 90%;
+    }
+    .inp1 {
+        width: 90%;
+    }
+    .bluedivFlex h1 {
+        font-size: 35px;
+    }
+    .inputs{
+        font-size: 18px !important;
+    }
+}
+@media only screen and (max-width: 350px) {
+    .bluedivFlex h1 {
+        font-size: 30px;
+    }
+    .bluedivFlex p{
+        font-size: 14px;
+    }
+}
