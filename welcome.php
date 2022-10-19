@@ -77,9 +77,9 @@ if (!isset($_SESSION['username'])) {
                 <img class = "imii" src="img/game4.jpg" >
                 <img class = "imii" src="img/game5.jpg" >
             </div>
-            <form action="crud.php">
-                <input value="CREATE" class = "submit2" type="submit">  
-            </form>
+            <div style="margin-top: 80px;">
+                <a href="crud.php" class="submit2">Create</a>
+            </div>
         <?php while($row = mysqli_fetch_array($result)){ ?>
 
             <div class="classGameParent" >
